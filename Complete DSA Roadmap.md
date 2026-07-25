@@ -1,13 +1,13 @@
 # Complete these first : Programming Basics python 
-Input/Output
-Loops
-Functions
+Input/Output,
+Loops,
+Functions,
 Classes & Objects (OOP)
 
 # Time & Space Complexity
-Big-(o)
-Time Complexity
-Space Complexity
+Big-(o),
+Time Complexity,
+Space Complexity,
 Recursion Basics
 
 # Most Important Topics for Interview Cracking (Top Priority)
